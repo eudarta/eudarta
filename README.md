@@ -1,10 +1,10 @@
 ## Yokoso, watashi no soul society!
 <div>
 <a href="https://github.com/eudarta/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eudarta&rank_icon=percentile&custom_title=Dartagnan's%20status&show_icons=true&theme=transparent&title_color=008000&text_color=006400&icon_color=008000&ring_color=006400" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eudarta&rank_icon=percentile&custom_title=Dartagnan's%20status&show_icons=true&theme=transparent&title_color=FF0000&text_color=FF0000&icon_color=FF0000&ring_color=FF0000" />
 </a>
 <a href="https://github.com/eudarta/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eudarta&layout=donut&theme=transparent&title_color=008000&text_color=006400&icon_color=008000&ring_color=006400)](https://github.com/eudarta/github-readme-statslayout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eudarta&layout=donut&theme=transparent&title_color=FF0000&text_color=FF0000&icon_color=FF0000&ring_color=FF0000)](https://github.com/eudarta/github-readme-statslayout=compact&langs_count=8&card_width=320" />
 </a>
 </div>
 <div style="display: inline_block"><br>
