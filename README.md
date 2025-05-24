@@ -1,4 +1,4 @@
-## Yokoso, watashi no soul society!
+## Yokoso watashi no domain
 <div>
 <a href="https://github.com/eudarta/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eudarta&rank_icon=percentile&custom_title=Dartagnan's%20status&show_icons=true&theme=transparent&title_color=FF0000&text_color=FF0000&icon_color=FF0000&ring_color=FF0000" />
