@@ -1,5 +1,5 @@
 <img src="https://sdmntprcentralus.oaiusercontent.com/files/00000000-3ec0-61f5-b546-0946f3615fd4/raw?se=2025-05-24T05%3A41%3A02Z&sp=r&sv=2024-08-04&sr=b&scid=ff938df9-fbbf-5047-84ee-a2d3aa588dc7&skoid=add8ee7d-5fc7-451e-b06e-a82b2276cf62&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-24T01%3A21%3A20Z&ske=2025-05-25T01%3A21%3A20Z&sks=b&skv=2024-08-04&sig=Do5//xHPwdhgDLjea7//a5l3pPpH5CGHPBIKmWrZNp0%3D" height="500px" width="1000px" />
-<h1>Welcome to my github!</h1>
+<h1>Thanks for passing by!</h1>
 <p>📚Still learning</p>
 <p>💻Computer science bachelor's degree</p>
 <div align="center">
