@@ -1,3 +1,4 @@
+<img src="https://i.pinimg.com/736x/b1/9e/04/b19e0406533ff8ceb1a99f13b2da26fa.jpg" width="100%" />
 <h1>Welcome to my github!</h1>
 <p>📚Still learning</p>
 <p>💻Computer science bachelor's degree</p>
@@ -6,10 +7,10 @@
 </div>
 <div align="center">
 <a href="https://github.com/eudarta/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eudarta&rank_icon=percentile&custom_title=Dartagnan's%20status&show_icons=true&border_color=889063&bg_color=0d1433&theme=transparent&title_color=f6e9d9&text_color=f6e9d9&icon_color=f6e9d9&ring_color=f6e9d9" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eudarta&rank_icon=percentile&custom_title=Dartagnan's%20status&show_icons=true&border_color=000000&bg_color=4b0101&theme=transparent&title_color=f6e9d9&text_color=f6e9d9&icon_color=f6e9d9&ring_color=f6e9d9" />
 </a>
 <a href="https://github.com/eudarta/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eudarta&layout=donut&theme=transparent&bg_color=0d1433&border_color=889063&title_color=f6e9d9&text_color=f6e9d9&icon_color=f6e9d9&ring_color=f6e9d9)](https://github.com/eudarta/github-readme-statslayout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eudarta&layout=donut&theme=transparent&bg_color=4b0101&border_color=000000&title_color=f6e9d9&text_color=f6e9d9&icon_color=f6e9d9&ring_color=f6e9d9)](https://github.com/eudarta/github-readme-statslayout=compact&langs_count=8&card_width=320" />
 </a>
   
 </div>
