@@ -1,4 +1,7 @@
 ## Yokoso watashi no domain
+  <div align="center">
+  <img src="https://profile-counter.glitch.me/eudarta/count.svg?"  />
+</div>
 <div>
 <a href="https://github.com/eudarta/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eudarta&rank_icon=percentile&custom_title=Dartagnan's%20status&show_icons=true&border_color=889063&bg_color=0d1433&theme=transparent&title_color=f6e9d9&text_color=f6e9d9&icon_color=f6e9d9&ring_color=f6e9d9" />
@@ -6,6 +9,7 @@
 <a href="https://github.com/eudarta/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eudarta&layout=donut&theme=transparent&bg_color=0d1433&border_color=889063&title_color=f6e9d9&text_color=f6e9d9&icon_color=f6e9d9&ring_color=f6e9d9)](https://github.com/eudarta/github-readme-statslayout=compact&langs_count=8&card_width=320" />
 </a>
+  
 </div>
 <div style="display: inline_block"><br>
 <img align="center" alt="hec-jv" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
