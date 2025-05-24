@@ -1,8 +1,8 @@
-## Yokoso watashi no domain
-  <div align="center">
+<h1>Welcome to my github!!</h1>
+<div align="center">
   <img src="https://profile-counter.glitch.me/eudarta/count.svg?"  />
 </div>
-<div>
+<div align="center">
 <a href="https://github.com/eudarta/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eudarta&rank_icon=percentile&custom_title=Dartagnan's%20status&show_icons=true&border_color=889063&bg_color=0d1433&theme=transparent&title_color=f6e9d9&text_color=f6e9d9&icon_color=f6e9d9&ring_color=f6e9d9" />
 </a>
@@ -23,5 +23,7 @@
   <a href="https://instagram.com/_eudarta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:brumdartagnan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hector-dartagnan-viana-de-brum-818a33315/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
+</div>
+
   ![Image](https://github.com/user-attachments/assets/5aa2f2cd-8d8b-4460-858b-2bc1ab40969e)
+  
