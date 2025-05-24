@@ -1,4 +1,6 @@
-<h1>Welcome to my github!!</h1>
+<h1>Welcome to my github!</h1>
+<p>📚Still learning</p>
+<p>💻Computer science bachelor's degree</p>
 <div align="center">
   <img src="https://profile-counter.glitch.me/eudarta/count.svg?"  />
 </div>
@@ -14,6 +16,9 @@
 <div style="display: inline_block"><br>
 <img align="center" alt="hec-jv" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img align="center" alt="hec-jv" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="center" alt="hec-jv" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img align="center" alt="hec-jv" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
+  
 </div>
 
 ##
